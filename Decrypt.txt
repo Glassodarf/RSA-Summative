@@ -1,0 +1,5 @@
+The message of 65 encrypts into 2790 with an n value of 3233 and an e value of: 17
+
+The encrypted message of 2790 decrypts into 65 with an n value of 3233 and a d value of: 2753
+
+
